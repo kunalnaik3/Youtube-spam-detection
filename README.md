@@ -1,6 +1,6 @@
 # Youtube-spam-detection
 This project helps to detect all the spam comments in the youtube videos commented by the users.
-Naiye bayes classification model is used to classify the data.
+Naive bayes classification model is used to classify the data.
 HTML and Css are used for making webpage and styling of an webpage.
 The file 'data' contains classifiction model code and data set for the project.
 'Static' file contains styling for the webpage .
